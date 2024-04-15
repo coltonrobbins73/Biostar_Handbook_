@@ -1,4 +1,4 @@
-baseURL = 'https://bio-recap.github.io/biostar_handbook/'
+baseURL = 'https://bio-recap.github.io/Biostar_Handbook/'
 languageCode = 'en-us'
 title = 'Biostar Handbook'
 theme = 'study_blog_relearn'
